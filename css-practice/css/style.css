@@ -9,7 +9,7 @@ body {
     align-items:center;
     background-color:#c4dfff;
     }
-    .nav-wt-1 {
+.nav-wt-1 {
     list-style-type:none;
     margin:0 auto;
     border:2px solid blue;
@@ -17,7 +17,7 @@ body {
     text-transform:uppercase;
     background-color:#c4ffe4;
     }
-    .nav-wt-1:hover
+.nav-wt-1:hover
     {
     background-color:lightgreen;
     }
