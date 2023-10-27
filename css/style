@@ -1,3 +1,23 @@
-body{
-    background-image: img src="img/фон.png"
+body {
+    background-image: src="img/фон.png"
 }
+.nav-wt {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    flex-wrap:nowrap;
+    align-items:center;
+    background-color:#c4dfff;
+    }
+    .nav-wt-1 {
+    list-style-type:none;
+    margin:0 auto;
+    border:2px solid blue;
+    padding:5px;
+    text-transform:uppercase;
+    background-color:#c4ffe4;
+    }
+    .nav-wt-1:hover
+    {
+    background-color:lightgreen;
+    }
