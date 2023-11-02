@@ -1,9 +1,7 @@
 body {
     background-color: crimson;  
 }
-.kompetencii-fon {
-    background-color: darkturquoise;
-}
+
 header {
 text-align: center;
 background-color: darkturquoise;  
@@ -45,7 +43,7 @@ h2 {
         width:200px;
         }
 .border {
-     border: 3px solid #42aaff;
+     border: 3px solid #ff0088;
      width:240px;
      height:240px;
      }  
