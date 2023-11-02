@@ -1,9 +1,9 @@
 body {
-    background-image: src=img/фон.png
+    background-color: crimson;  
 }
 header {
 text-align: center;
-background-image: url(../img/фон.png) ;    
+background-color: darkturquoise;  
 height: 400px;
 background-repeat: no-repeat;
 background-position: left;
