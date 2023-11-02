@@ -2,16 +2,7 @@ body {
     background-image: src=img/фон.png
 }
 header {
-text-align: center;
 background-image: url (img/фон.png) ;
-height: 400px;
- background-repeat: no-repeat;
-background-position: ;
-background-color: #020305; 
-background-attachment: fixed;
-background-size: cover; 
-padding-left: 250px; 
-padding-top: 100p;
 }
 .nav-wt {
     display:flex;
