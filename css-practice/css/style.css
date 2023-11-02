@@ -50,3 +50,14 @@ h2 {
 .div-footer {
     background-color: darkturquoise;   
 }
+.btn {
+    padding: 0.5em 1.5em; 
+    font-size: 0.9em; 
+    color: #fff; 
+    background-color: #67ada9; 
+    border-width: 0;
+    border-radius: 0.4em; 
+    margin-bottom: 1rem; 
+    margin-right: 1rem; 
+    box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.8);
+   }
