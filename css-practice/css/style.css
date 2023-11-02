@@ -4,7 +4,7 @@ body {
 header {
 text-align: center;
 background-color: darkturquoise;  
-height: 250px;
+height: 200px;
 background-repeat: no-repeat;
 background-position: left;
 background-attachment: fixed;
@@ -31,4 +31,8 @@ padding-top: 100p;
 .nav-wt-1:hover
     {
     background-color:lightgreen;
+    }
+h2 {
+    text-align:center;
+    font-weight:bold;
     }
