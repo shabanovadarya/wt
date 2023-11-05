@@ -58,19 +58,9 @@ h2 {
     border: 2px solid #42aaff;
     border-radius: 0.4em; 
     margin-bottom: 1rem; 
-    margin-right: 50%; 
-    margin-left: 50%;
+    margin-right: 1rem; 
     box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.8);
    }
-   
-@font-face {
-    font-display: swap;
-    font-family: 'Spline Sans Mono';
-    font-style: italic;
-    font-weight: 500;
-    src: url('../fonts/spline-sans-mono-v10-latin_latin-ext-500italic.woff2') format('woff2'); 
-  }
-.yellow{
-background-color: black;    
-color:aqua;
+.yellow {
+    background-color: chartreuse;
 }
