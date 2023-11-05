@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;  
+    background-color: crimson;  
 }
 
 header {
@@ -61,6 +61,9 @@ h2 {
     margin-right: 1rem; 
     box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.8);
    }
-.yellow {
-    background-color: chartreuse;
+.blue {
+    background-color: darkturquoise;
+}
+.purple {
+    background-color: darkorchid;
 }
