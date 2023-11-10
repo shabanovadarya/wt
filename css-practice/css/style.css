@@ -49,6 +49,7 @@ h3 {
      border: 3px solid #ff0088;
      width:240px;
      height:240px;
+     margin: 0 auto;
      }  
 .div-footer {
     background-color: darkturquoise;   
@@ -69,7 +70,4 @@ h3 {
 }
 .purple {
     background-color: darkorchid;
-}
-.commontable{
-    margin: 0 auto;
 }
