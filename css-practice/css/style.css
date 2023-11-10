@@ -37,6 +37,9 @@ h2 {
     text-align:center;
     font-weight:bold;
     }
+h3 {
+        text-align:center;
+        }  
 .centre-img {
         display:block;
         margin:auto;
@@ -66,4 +69,7 @@ h2 {
 }
 .purple {
     background-color: darkorchid;
+}
+.commontable{
+    margin: 0 auto;
 }
