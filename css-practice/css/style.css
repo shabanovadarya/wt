@@ -72,6 +72,7 @@ h3 {
 }
 .container {
     display: flex;
+    margin-bottom: 10px;
   }
   
 .block {
@@ -81,18 +82,17 @@ h3 {
     border: 2px solid darkorchid;
     margin-right: 330px;
     margin-top: 50px;
-	padding: 0.5 rem
-  }  
-.centreblock {
-    background: darkturquoise;
-    height: 200px;
-    width: 700px;
-    border: 2px solid darkorchid;
-    margin-right: 330px;
-    margin-top: 50px;
-	padding: 0,5 rem;
-	align-items: centre
-  }    
+	padding: 0.5 rem;
+  }
 .centretext{
     text-align: center;
 }
+.centreblock1 {
+    background: darkturquoise;
+    height: 220px;
+    width: 700px;
+    border: 2px solid darkorchid;
+	padding: 0,5 rem;
+	align-items: centre;
+    margin:0 auto;
+  }    
