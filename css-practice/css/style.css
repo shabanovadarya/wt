@@ -1,7 +1,6 @@
 body {
     background-color: crimson;  
 }
-
 header {
 text-align: center;
 background-color: darkturquoise;  
@@ -70,4 +69,30 @@ h3 {
 }
 .purple {
     background-color: darkorchid;
+}
+.container {
+    display: flex;
+  }
+  
+.block {
+    background: darkturquoise;
+    height: 200px;
+    width: 700px;
+    border: 2px solid darkorchid;
+    margin-right: 330px;
+    margin-top: 50px;
+	padding: 0.5 rem
+  }  
+.centreblock {
+    background: darkturquoise;
+    height: 200px;
+    width: 700px;
+    border: 2px solid darkorchid;
+    margin-right: 330px;
+    margin-top: 50px;
+	padding: 0,5 rem;
+	align-items: centre
+  }    
+.centretext{
+    text-align: center;
 }
